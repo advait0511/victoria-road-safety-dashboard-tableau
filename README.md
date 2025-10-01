@@ -17,7 +17,7 @@ The project demonstrates my ability to transform raw crash data into actionable 
 - **Trends Over Time:** Longitudinal view of crashes by road user type.
 
 ## 🚀 How to View
-1. Download the Tableau workbook `Victoria_Road_Safety_Dashboard`.
+1. Download the Tableau workbook `Victoria_Road_Safety_Dashboard.twbx`.
 2. Open with Tableau Desktop or Tableau Public.
 3. Explore the interactive dashboard.
 
